@@ -1,0 +1,12 @@
+track CLIP_free_R1
+bigDataUrl Free_CLIP_8.bw
+shortLabel free_R1
+longLabel CLIP_free_R1
+type bigWig
+
+
+track CLIP_free_R2
+bigDataUrl Free_CLIP_9.bw
+shortLabel free_R2
+longLabel CLIP_free_R2
+type bigWig
